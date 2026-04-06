@@ -1,0 +1,68 @@
+<div align="center">
+    <img src="media/header.svg" alt="抽象化的角色网络与记忆连线插图。" width="900">
+  <h1>Awesome Persona Distill Skills</h1>
+  <p>
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome">
+    </a>
+  </p>
+</div>
+
+**_[English](./README.en.md)_**
+
+围绕人物、关系、纪念性场景与方法论视角的 [Agent Skills](https://agentskills.io) 收录列表。
+
+这里的“人格蒸馏”主要指从对话、作品、资料或数字痕迹中提炼表达风格、决策框架与交互方式，不默认等同于对真实个体的完整还原。
+
+## 目录
+
+- [自我蒸馏与元工具](#自我蒸馏与元工具)
+- [职场与学术关系](#职场与学术关系)
+- [亲密关系与家庭记忆](#亲密关系与家庭记忆)
+- [公众人物与方法论视角](#公众人物与方法论视角)
+- [精神性与专门化主题](#精神性与专门化主题)
+- [贡献](#贡献)
+
+## 自我蒸馏与元工具
+
+- [反蒸馏 Skill](https://github.com/leilei926524-tech/anti-distill) - 面向技能交付场景，分离可公开分发的技能内容与私有经验备份。
+- [数字人生.skill](https://github.com/wildbyteai/digital-life) - 从个人在日常工具中反复留下的数字痕迹里提炼结构化自我画像。
+- [永生.skill](https://github.com/agenmod/immortal-skill) - 基于聊天记录与相关资料整理多维数字人格画像。
+- [女娲.skill](https://github.com/alchaincyf/nuwa-skill) - 从个人的心智模型、决策启发式与表达模式中提炼可复用技能。
+- [自己.skill](https://github.com/notdog1998/yourself-skill) - 将个人对话与记录整理为面向自我蒸馏的助手。
+
+## 职场与学术关系
+
+- [老板.skill](https://github.com/vogtsw/boss-skills) - 从工作材料中提炼管理者的判断标准、评审风格与沟通预期。
+- [同事.skill](https://github.com/titanwings/colleague-skill) - 从团队资料中整理离职同事的工作上下文、习惯与沟通方式。
+- [师兄.skill](https://github.com/zhanghaichao520/senpai-skill) - 从课题组材料中提炼资深成员的带人方式与救火风格。
+- [导师.skill](https://github.com/ybq22/supervisor) - 将导师的指导风格整理为面向学生与教育工作者的导师助手。
+
+## 亲密关系与家庭记忆
+
+- [暗恋对象.skill](https://github.com/xiaoheizi8/crush-skills) - 从聊天、照片与社交痕迹中提炼对话风格，用于个人回望与整理。
+- [前任.skill](https://github.com/therealXiaomanChu/ex-skill) - 从私人记录中整理说话方式与共同记忆，用于回忆与梳理。
+- [父母.skill](https://github.com/xiaoheizi8/parents-skills) - 从个人材料中提炼父母的语气、习惯与家庭记忆。
+- [Reunion Skill](https://github.com/yangdongchen66-boop/reunion-skill) - 基于已故亲友的数字遗物构建本地运行的纪念型陪伴助手。
+
+## 公众人物与方法论视角
+
+- [巴菲特思维操作系统](https://github.com/will2025btc/buffett-perspective) - 提炼沃伦·巴菲特的投资与决策框架，形成可复用的方法论视角。
+- [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) - 提炼埃隆·马斯克的第一性原理与产品思维，形成可复用的决策框架。
+- [费曼.skill](https://github.com/alchaincyf/feynman-skill) - 提炼理查德·费曼的解释风格与求真启发式，形成可复用框架。
+- [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - 提炼户晨风的消费现实主义视角，用于分析购买、城市与职业选择。
+- [芒格.skill](https://github.com/alchaincyf/munger-skill) - 提炼查理·芒格的跨学科心智模型与决策启发式，形成可复用框架。
+- [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) - 提炼纳瓦尔关于财富、杠杆与判断力的框架，形成可复用视角。
+- [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) - 提炼史蒂夫·乔布斯的产品判断、叙事风格与决策启发式，形成可复用框架。
+- [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) - 提炼纳西姆·塔勒布关于反脆弱与风险的启发式，形成可复用框架。
+- [X 导师.skill](https://github.com/alchaincyf/x-mentor-skill) - 整合多位社交平台创作者的写作与增长打法，形成统一的导师型技能。
+- [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 提炼张雪峰在升学、考试与职业规划方面的实用框架，形成可复用视角。
+
+## 精神性与专门化主题
+
+- [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) - 根据出生信息与传统命理典籍进行四柱排盘与分析。
+- [Master-skill](https://github.com/xr843/Master-skill) - 基于佛教经典文献整理汉传佛教教学风格与讲解视角。
+
+## 贡献
+
+提交 PR 前，请先阅读 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
